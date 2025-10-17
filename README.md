@@ -4,7 +4,7 @@
 🎓 **BCA Graduate | MCA Student at IGNOU**  
 💻 **Aspiring Web Developer | Data Science Enthusiast | Tech Innovator**
 
----
+--- 
 
 ## 🚀 About Me
 I’m passionate about building user-friendly web applications and exploring data-driven insights.  
